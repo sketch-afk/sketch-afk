@@ -76,7 +76,7 @@
 ---
 
 ### 🔥 What I'm Working On:
-- Building full stack projects with **React, Node, Express & MongoDB**
+- Building full stack projects with **React, Next.js, Node.js, Express & MongoDB**
 - Improving problem-solving skills
 - Exploring advanced backend concepts
 
