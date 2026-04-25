@@ -58,7 +58,7 @@ I'm Yash Raj Gupta, a B.Tech student and Full Stack Developer
 ### ⚙️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,webstorm,idea,git,github,linux&theme=light" />
   </a>
 </p>
 
