@@ -38,9 +38,18 @@ I'm Yash Raj Gupta, a B.Tech student and Full Stack Developer
 ---
 
 ### 🧠 Skills
+
+#### 💻 Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,nextjs,nodejs,express,mongodb,tailwind&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css&theme=light" />
+  </a>
+</p>
+
+#### ⚙️ Frameworks & Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind&theme=light" />
   </a>
 </p>
 
@@ -67,12 +76,6 @@ I'm Yash Raj Gupta, a B.Tech student and Full Stack Developer
 ### 🧩 Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sketch-afk&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
-
----
-
-## 🏆 Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=sketch-afk&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
 
 ---
 
