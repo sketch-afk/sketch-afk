@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Developer;B.Tech+CSIT+Student;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Digital+Experiences" />
 
-### Software Engineer | Full Stack Developer | B.Tech CSIT Student
+### Software Engineer | Full Stack Developer | B.Tech CSIT Student 
 
 💡 *"Crafting logic and elegance in every line of code."*
 
